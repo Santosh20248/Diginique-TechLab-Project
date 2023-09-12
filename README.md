@@ -1,1 +1,1 @@
-# IIT-Fake-news-
+# Diginique TechLabs-Fake-news-detection
